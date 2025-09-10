@@ -1,5 +1,6 @@
     git clone https://github.com/your-username/your-forked-repo.git
     cd your-forked-repo
+    git remote -v
 
   <img align="center" src="public/assets/images/Readme-Icon.png"/>
 
