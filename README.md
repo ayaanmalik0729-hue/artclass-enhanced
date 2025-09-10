@@ -1,6 +1,7 @@
     git clone https://github.com/your-username/your-forked-repo.git
     cd your-forked-repo
     git remote -v
+    git remote set-url origin https://github.com/your-username/new-repo-name.git
 
   <img align="center" src="public/assets/images/Readme-Icon.png"/>
 
